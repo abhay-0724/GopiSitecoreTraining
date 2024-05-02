@@ -3,11 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{1C254C6D-0394-4DF4-AA35-7563A2F8FC13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{ECE49EE0-AFD1-48C0-9E5D-5CFF6463903A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{DCF46AC2-C6AF-414A-BDBC-2BE62FB97C07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TrainingDemo", "TrainingDemo", "{760B70C5-C4A7-4926-B482-B584C6B72860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicContent", "BasicContent", "{275D2564-DB48-4BAA-9A33-9C4863B709DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialisation", "Serialisation", "{3E693DDE-3898-4537-8F15-2FDE04E1CE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GopiSitecoreTraining.Project.TrainingDemo", "src\Project\TrainingDemo\Website\GopiSitecoreTraining.Project.TrainingDemo.csproj", "{27ABD944-29CF-4673-B11A-588ADD186583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GopiSitecoreTraining.Feature.BasicContent", "src\Feature\BasicContent\Website\GopiSitecoreTraining.Feature.BasicContent.csproj", "{0B1E5736-6AEA-439C-AF27-5B2755C4889B}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27ABD944-29CF-4673-B11A-588ADD186583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ABD944-29CF-4673-B11A-588ADD186583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ABD944-29CF-4673-B11A-588ADD186583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ABD944-29CF-4673-B11A-588ADD186583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1E5736-6AEA-439C-AF27-5B2755C4889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1E5736-6AEA-439C-AF27-5B2755C4889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1E5736-6AEA-439C-AF27-5B2755C4889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1E5736-6AEA-439C-AF27-5B2755C4889B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{760B70C5-C4A7-4926-B482-B584C6B72860} = {DCF46AC2-C6AF-414A-BDBC-2BE62FB97C07}
+		{275D2564-DB48-4BAA-9A33-9C4863B709DD} = {ECE49EE0-AFD1-48C0-9E5D-5CFF6463903A}
+		{3E693DDE-3898-4537-8F15-2FDE04E1CE12} = {1C254C6D-0394-4DF4-AA35-7563A2F8FC13}
+		{27ABD944-29CF-4673-B11A-588ADD186583} = {760B70C5-C4A7-4926-B482-B584C6B72860}
+		{0B1E5736-6AEA-439C-AF27-5B2755C4889B} = {275D2564-DB48-4BAA-9A33-9C4863B709DD}
+	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {07D2A8C5-E833-4058-9553-748EF9C5B0EE}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal
