@@ -589,6 +589,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\GopiSitecoreTraining\TrainingDemo\_TrainingDemo.cshtml" />
+    <None Include="App_Config\Include\GopiSitecoreTraining\GTRNSiteDefinition.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
