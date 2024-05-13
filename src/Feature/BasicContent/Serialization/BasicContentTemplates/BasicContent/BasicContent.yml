@@ -1,0 +1,22 @@
+﻿---
+ID: "37c725b4-7d7d-4df6-8ef1-81d8f4a4ab95"
+Parent: "db0d4a1e-790a-4903-8009-54c005584154"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TRN/BasicContent/BasicContent
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{747EA64B-48DD-4A35-9E20-F0DE49BA9F72}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{158FCFC0-E9C1-486C-81DC-E2C7AE50981A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T161855Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "383ebf79-937c-45e8-ac62-d4b8b2486ea6"
+Parent: "f378b9c2-36f3-4867-acb7-9a984b3371f5"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/content/trnwebsite/Home/DemoData
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{412CA5BE-E7AB-4BB8-A121-DFD582F20F43}">
+          <p:d />
+        </r>
+        <r
+          uid="{46D28EB6-C9D1-4E77-8CDC-265816CF826D}"
+          s:id="{96828D6A-65F8-4D89-84A1-DD314BD13087}"
+          s:ph="trndemo" />
+        <r
+          uid="{BACBB488-0D2A-4B92-A80D-F34081986395}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T105236Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: DemoData
+    - ID: "6255c487-d6d2-48f2-8150-cfecce817dcd"
+      Hint: Student_Department
+      Value: "{13B5A868-25F2-4A3B-B5C7-0BFEB7737782}"
+    - ID: "690c7111-ca3e-4529-888d-0fd87cc7efa0"
+      Hint: Student_Id
+      Value: 23456

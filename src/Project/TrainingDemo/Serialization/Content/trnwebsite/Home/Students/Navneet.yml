@@ -1,0 +1,20 @@
+﻿---
+ID: "ce84c3cc-51f8-4c70-b4b2-d62ecb5087c3"
+Parent: "bd4b6813-3148-49ba-86ea-e99f5232c421"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/content/trnwebsite/Home/Students/Navneet
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T043158Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: Navneet
+    - ID: "6255c487-d6d2-48f2-8150-cfecce817dcd"
+      Hint: Student_Department
+      Value: "{79A9F334-3D75-4180-A40D-09550D58A59A}"

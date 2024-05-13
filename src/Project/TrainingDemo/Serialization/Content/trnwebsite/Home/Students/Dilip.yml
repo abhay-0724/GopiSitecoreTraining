@@ -1,0 +1,17 @@
+﻿---
+ID: "4b5d997c-2960-4cef-95c3-a9af83110e35"
+Parent: "bd4b6813-3148-49ba-86ea-e99f5232c421"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/content/trnwebsite/Home/Students/Dilip
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T042403Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: Dilip

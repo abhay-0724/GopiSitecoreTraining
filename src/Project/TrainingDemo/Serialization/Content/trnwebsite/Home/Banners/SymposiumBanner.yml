@@ -1,0 +1,28 @@
+﻿---
+ID: "a05ee8e5-6ae9-44ed-aecd-d25adf4f61ce"
+Parent: "ae468b62-3749-4117-87f2-1db49e9aa771"
+Template: "1e6011d7-f462-4e61-a043-72f3dfae61c4"
+Path: /sitecore/content/trnwebsite/Home/Banners/SymposiumBanner
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240513T045333Z
+    - ID: "5011a75c-afdd-4456-a424-577891e124e1"
+      Hint: BannerTitle
+      Value: Science and Technology Symposium
+    - ID: "54810b1c-58e1-400e-97b4-041ebde7f77b"
+      Hint: BannerDesc
+      Value: test
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9f8ccbd4-16fa-402d-bdd4-4540ced47cce"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{8B999BE5-C3DE-44B6-A5B4-1D2FE925D6FE}" />

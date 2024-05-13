@@ -1,0 +1,37 @@
+﻿---
+ID: "f378b9c2-36f3-4867-acb7-9a984b3371f5"
+Parent: "9912b00d-48c2-4f70-8d45-73b93403284c"
+Template: "35d4cdaf-5292-400b-80ed-7391a0e8f7d3"
+Path: /sitecore/content/trnwebsite/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{71BC5CEB-1005-44B1-A3B8-2247F3ABF0D3}"
+          s:ccb="Clear on publish"
+          s:ds="{A05EE8E5-6AE9-44ED-AECD-D25ADF4F61CE}"
+          s:par="" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T025713Z
+    - ID: "5b7ff498-a8ca-4ff6-8410-db82118ea9dd"
+      Hint: IsNavigablePage
+      Type: Checkbox
+      Value: 1
+    - ID: "a0b9220c-d67c-420b-8898-a97e53e26793"
+      Hint: Title
+      Value: Home Page

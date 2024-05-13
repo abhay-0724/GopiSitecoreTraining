@@ -1,0 +1,30 @@
+﻿---
+ID: "ea367e9a-06d5-4475-a996-aac6e0bbbbd1"
+Parent: "60831dc6-0368-4135-b2e9-c54ca6e03920"
+Template: "eee3f4e6-a2a2-4c50-bcfb-e00b96441d1e"
+Path: /sitecore/content/trnwebsite/Home/Departments/eee/CarouselFolder/CarouselItem2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0882d937-0d51-43f2-8e88-2ed3cc9f8283"
+      Hint: CarouselImage
+      Value: |
+        <image mediaid="{6FE764FC-ECBE-4BC7-AD13-68C467690852}" />
+    - ID: "177a30d6-b8b8-43e0-8117-344d5db20439"
+      Hint: CarouselDescription
+      Value: |
+        <p>Burger as description</p>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T065448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f65765cd-4915-4de0-9512-104aaf3d239b"
+      Hint: CarouselTitle
+      Value: Burger

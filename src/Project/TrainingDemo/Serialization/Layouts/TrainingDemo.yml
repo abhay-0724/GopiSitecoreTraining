@@ -1,0 +1,18 @@
+﻿---
+ID: "f607868e-f0d9-4abf-a57a-2b00920dc90e"
+Parent: "104a80f9-effb-440d-8cb5-45fcf92aba39"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/Project/TRN/TrainingDemo
+DB: master
+SharedFields:
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/GopiSitecoreTraining/TrainingDemo/_TrainingDemo.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T234935Z

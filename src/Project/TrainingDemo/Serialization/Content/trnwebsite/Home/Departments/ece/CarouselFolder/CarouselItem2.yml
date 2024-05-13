@@ -1,0 +1,28 @@
+﻿---
+ID: "f0dffa71-0acc-4b0b-bded-702fd6267d4e"
+Parent: "135e84f6-2d7f-4b33-b48a-44473eb49598"
+Template: "eee3f4e6-a2a2-4c50-bcfb-e00b96441d1e"
+Path: /sitecore/content/trnwebsite/Home/Departments/ece/CarouselFolder/CarouselItem2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0882d937-0d51-43f2-8e88-2ed3cc9f8283"
+      Hint: CarouselImage
+      Value: |
+        <image mediaid="{23636914-5B0E-4C76-B102-3EB9F35E13CD}" />
+    - ID: "177a30d6-b8b8-43e0-8117-344d5db20439"
+      Hint: CarouselDescription
+      Value: This is a demo carousel component
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240509T045415Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f65765cd-4915-4de0-9512-104aaf3d239b"
+      Hint: CarouselTitle
+      Value: Plate with some food

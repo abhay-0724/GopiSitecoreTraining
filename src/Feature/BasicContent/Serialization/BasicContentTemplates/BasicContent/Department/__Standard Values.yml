@@ -1,0 +1,56 @@
+﻿---
+ID: "c529a90a-2022-4aa4-82d7-59c16b7aa393"
+Parent: "0cbf8dfd-87b2-42f4-88fe-8c46cea4270f"
+Template: "0cbf8dfd-87b2-42f4-88fe-8c46cea4270f"
+Path: /sitecore/templates/Feature/TRN/BasicContent/Department/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{FAB1952E-4530-4279-BD18-6FB25CF13BCE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{F607868E-F0D9-4ABF-A57A-2B00920DC90E}">
+        <r
+          id="{DF6BAD3D-D48C-46F3-B737-7E36C141020D}"
+          ph="trndemo"
+          uid="{72C9E349-0B84-4C58-A732-C01A2C966D74}" />
+        <r
+          id="{BB268DB9-A4EF-4493-995C-F68FEDEEBACF}"
+          ph="trndemo"
+          uid="{A1281F0B-1B44-4DE6-BA5D-2075BA63BCEF}" />
+        <r
+          id="{CA456AFF-D3C8-4140-9616-BCF9D9DD3219}"
+          ph="trndemo"
+          uid="{C24F1D56-1666-43D4-819B-7486288D855A}" />
+        <r
+          id="{FF4AB442-9CD1-4270-B3AA-D4E892F10F22}"
+          ph="trndemo"
+          uid="{9AE114D2-B116-4052-9927-33909EA7311E}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T063353Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a0b9220c-d67c-420b-8898-a97e53e26793"
+      Hint: Title
+      Value: $name
+    - ID: "e46e4fdf-9b5d-4f27-b973-0b94d5098ba6"
+      Hint: Titlebackground
+      Value: |
+        <image mediaid="{EDD097B1-21A2-429E-B497-EA6A506A6524}" />
