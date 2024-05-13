@@ -1,0 +1,35 @@
+﻿---
+ID: "591336b9-930f-485e-9522-c14af6ab09db"
+Parent: "bd4b6813-3148-49ba-86ea-e99f5232c421"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/content/trnwebsite/Home/Students/Ayush
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BACBB488-0D2A-4B92-A80D-F34081986395}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T101848Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: Ayush
+    - ID: "6255c487-d6d2-48f2-8150-cfecce817dcd"
+      Hint: Student_Department
+      Value: "{79A9F334-3D75-4180-A40D-09550D58A59A}"

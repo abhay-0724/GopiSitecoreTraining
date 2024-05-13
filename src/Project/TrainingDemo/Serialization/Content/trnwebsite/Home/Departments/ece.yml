@@ -1,0 +1,47 @@
+﻿---
+ID: "79a9f334-3d75-4180-a40d-09550d58a59a"
+Parent: "fdb3b16d-5884-4240-bf47-7d768542b372"
+Template: "0cbf8dfd-87b2-42f4-88fe-8c46cea4270f"
+Path: /sitecore/content/trnwebsite/Home/Departments/ece
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A1281F0B-1B44-4DE6-BA5D-2075BA63BCEF}">
+          <p:d />
+        </r>
+        <r
+          uid="{EB9DF78D-9887-433E-8A34-09774AB2BEBE}"
+          p:after="*[1=2]"
+          s:id="{BB268DB9-A4EF-4493-995C-F68FEDEEBACF}"
+          s:ph="trndemo" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa519c5-0540-487a-a9ed-72673959fae2"
+      Hint: CarouselItems
+      Type: Multilist
+      Value: |
+        {AA4AAF10-1B68-4004-BE4A-FBBA9CD82237}
+        {C7B4DD54-2548-4199-AA40-E460B6EBA97B}
+        {F0DFFA71-0ACC-4B0B-BDED-702FD6267D4E}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T100547Z
+    - ID: "a0b9220c-d67c-420b-8898-a97e53e26793"
+      Hint: Title
+      Value: ece
+    - ID: "a99cc84f-b227-435f-9a66-759d370a2e74"
+      Hint: DepartmentEthos
+      Value: Welcome to sitecore bootstrap demo.

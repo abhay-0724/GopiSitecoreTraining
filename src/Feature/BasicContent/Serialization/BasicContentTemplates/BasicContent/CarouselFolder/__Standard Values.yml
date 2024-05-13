@@ -1,0 +1,23 @@
+﻿---
+ID: "5e55a455-0c7d-4842-a13a-3dc0f50ba0f9"
+Parent: "fab1952e-4530-4279-bd18-6fb25cf13bce"
+Template: "fab1952e-4530-4279-bd18-6fb25cf13bce"
+Path: /sitecore/templates/Feature/TRN/BasicContent/CarouselFolder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{EEE3F4E6-A2A2-4C50-BCFB-E00B96441D1E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T063643Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
