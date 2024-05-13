@@ -1,0 +1,37 @@
+﻿---
+ID: "13b5a868-25f2-4a3b-b5c7-0bfeb7737782"
+Parent: "fdb3b16d-5884-4240-bf47-7d768542b372"
+Template: "0cbf8dfd-87b2-42f4-88fe-8c46cea4270f"
+Path: /sitecore/content/trnwebsite/Home/Departments/eee
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A1281F0B-1B44-4DE6-BA5D-2075BA63BCEF}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa519c5-0540-487a-a9ed-72673959fae2"
+      Hint: CarouselItems
+      Type: Multilist
+      Value: |
+        {571F43CE-D3F7-4C8C-95B4-AD5FB8A6B2FE}
+        {EA367E9A-06D5-4475-A996-AAC6E0BBBBD1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T100557Z
+    - ID: "a0b9220c-d67c-420b-8898-a97e53e26793"
+      Hint: Title
+      Value: eee

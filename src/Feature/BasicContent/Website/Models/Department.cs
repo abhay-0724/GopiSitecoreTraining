@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace GopiSitecoreTraining.Feature.BasicContent.Models
+{
+    public class Department
+    {
+        public HtmlString Title { get; set; }
+        public string TitleBackground { get; set; }
+        public HtmlString DepartmentEthos { get; set; }
+        public HtmlString DepartmentLogo { get; set; }
+    }
+}

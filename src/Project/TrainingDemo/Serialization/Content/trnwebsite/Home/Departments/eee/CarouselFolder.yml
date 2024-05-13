@@ -1,0 +1,14 @@
+﻿---
+ID: "60831dc6-0368-4135-b2e9-c54ca6e03920"
+Parent: "13b5a868-25f2-4a3b-b5c7-0bfeb7737782"
+Template: "fab1952e-4530-4279-bd18-6fb25cf13bce"
+Path: /sitecore/content/trnwebsite/Home/Departments/eee/CarouselFolder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T065426Z

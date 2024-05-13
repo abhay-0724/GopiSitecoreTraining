@@ -1,0 +1,44 @@
+﻿---
+ID: "ca6d81b4-8988-410b-997d-b81684094f79"
+Parent: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/templates/Feature/TRN/BasicContent/Student/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{747EA64B-48DD-4A35-9E20-F0DE49BA9F72}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{F607868E-F0D9-4ABF-A57A-2B00920DC90E}">
+        <r
+          id="{96828D6A-65F8-4D89-84A1-DD314BD13087}"
+          ph="trndemo"
+          uid="{412CA5BE-E7AB-4BB8-A121-DFD582F20F43}" />
+        <r
+          id="{F5A3F0D3-CE86-43D1-ACBA-E2810DAE6712}"
+          ph="trndemo"
+          uid="{BACBB488-0D2A-4B92-A80D-F34081986395}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T055027Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "bd4b6813-3148-49ba-86ea-e99f5232c421"
+Parent: "f378b9c2-36f3-4867-acb7-9a984b3371f5"
+Template: "7e6eaab9-24ef-48b7-af59-4dab5b64b4e9"
+Path: /sitecore/content/trnwebsite/Home/Students
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T100521Z

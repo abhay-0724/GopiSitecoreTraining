@@ -1,0 +1,14 @@
+﻿---
+ID: "9912b00d-48c2-4f70-8d45-73b93403284c"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "8de8f843-019a-429b-a589-97a41f8d1c87"
+Path: /sitecore/content/trnwebsite
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T025657Z

@@ -1,0 +1,51 @@
+﻿---
+ID: "8939fd4b-71a3-410a-a971-504441d3de70"
+Parent: "35d4cdaf-5292-400b-80ed-7391a0e8f7d3"
+Template: "35d4cdaf-5292-400b-80ed-7391a0e8f7d3"
+Path: /sitecore/templates/Project/TRN/HomePage/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {37C725B4-7D7D-4DF6-8EF1-81D8F4A4AB95}
+    {0267EEE8-A2AD-40D4-9223-206A10C77F7E}
+    {7E6EAAB9-24EF-48B7-AF59-4DAB5B64B4E9}
+    {2B6C634C-482E-4A7A-B1B1-549B984FD298}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{F607868E-F0D9-4ABF-A57A-2B00920DC90E}">
+        <r
+          ds=""
+          id="{E78F41FE-5266-42F4-BE4B-012DA2DB5CDD}"
+          par=""
+          ph="trndemo"
+          uid="{2AFD59D7-91E7-45CD-8DEE-EF2071F90746}"
+          ccb="Clear on publish" />
+        <r
+          id="{FF4AB442-9CD1-4270-B3AA-D4E892F10F22}"
+          ph="trndemo"
+          uid="{71BC5CEB-1005-44B1-A3B8-2247F3ABF0D3}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T024445Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a0b9220c-d67c-420b-8898-a97e53e26793"
+      Hint: Title
+      Value: $name

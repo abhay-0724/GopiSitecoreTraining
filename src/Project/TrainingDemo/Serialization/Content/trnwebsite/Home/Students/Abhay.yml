@@ -1,0 +1,71 @@
+﻿---
+ID: "f35be829-e6e2-430a-8d4d-4975a30dbcb9"
+Parent: "bd4b6813-3148-49ba-86ea-e99f5232c421"
+Template: "6d7b181b-b5db-4f5e-9ebb-10016292423b"
+Path: /sitecore/content/trnwebsite/Home/Students/Abhay
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{412CA5BE-E7AB-4BB8-A121-DFD582F20F43}">
+          <p:d />
+        </r>
+        <r
+          uid="{BACBB488-0D2A-4B92-A80D-F34081986395}">
+          <p:d />
+        </r>
+        <r
+          uid="{63F639F6-549D-4C2A-8D0E-4FEFEC9862A0}"
+          p:before="*"
+          s:id="{96828D6A-65F8-4D89-84A1-DD314BD13087}"
+          s:ph="trndemo" />
+        <r
+          uid="{2EB986EC-9D58-4C2C-95DD-388D73F5FE6C}"
+          p:after="r[@uid='{63F639F6-549D-4C2A-8D0E-4FEFEC9862A0}']"
+          s:id="{F5A3F0D3-CE86-43D1-ACBA-E2810DAE6712}"
+          s:ph="trndemo" />
+        <r
+          uid="{DAD29F2B-8DEA-45F9-8DF5-8A5ACB8F200B}"
+          p:after="*[1=2]"
+          s:id="{55EB6400-6AC7-40DA-82AF-0EE461320934}"
+          s:ph="trndemo" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T101834Z
+    - ID: "3f59ef4e-9e02-461c-94bb-f6bd5b848fef"
+      Hint: Student_DOB
+      Value: 20240506T183000Z
+    - ID: "4a48db13-724c-4f99-ae41-7e993f0eebcf"
+      Hint: Student_Name
+      Value: Abhay
+    - ID: "51ffa9ea-765e-4335-b0b0-fbf93e650dac"
+      Hint: Student_Address
+      Value: <p>Navalur Chennai</p>
+    - ID: "60b156e8-a735-4785-9d8d-cefd737ffeb8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{2B0033CC-0D13-4821-A930-67236CC3E77B}" />
+    - ID: "6255c487-d6d2-48f2-8150-cfecce817dcd"
+      Hint: Student_Department
+      Value: "{13B5A868-25F2-4A3B-B5C7-0BFEB7737782}"
+    - ID: "690c7111-ca3e-4529-888d-0fd87cc7efa0"
+      Hint: Student_Id
+      Value: 23187
+    - ID: "8ce3ec2d-6104-45a9-9324-03b431b54e86"
+      Hint: Student_ProfilePic
+      Value: |
+        <image mediaid="{2759899A-43C3-4DE3-98EF-1044BDAB8497}" />

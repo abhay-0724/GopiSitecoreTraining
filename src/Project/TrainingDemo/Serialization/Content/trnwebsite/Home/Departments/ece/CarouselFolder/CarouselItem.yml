@@ -1,0 +1,28 @@
+﻿---
+ID: "aa4aaf10-1b68-4004-be4a-fbba9cd82237"
+Parent: "135e84f6-2d7f-4b33-b48a-44473eb49598"
+Template: "eee3f4e6-a2a2-4c50-bcfb-e00b96441d1e"
+Path: /sitecore/content/trnwebsite/Home/Departments/ece/CarouselFolder/CarouselItem
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0882d937-0d51-43f2-8e88-2ed3cc9f8283"
+      Hint: CarouselImage
+      Value: |
+        <image mediaid="{E329E224-5042-4A1B-9444-708787368B52}" alt="Vowl with some food" height="400" width="400" hspace="" vspace="" />
+    - ID: "177a30d6-b8b8-43e0-8117-344d5db20439"
+      Hint: CarouselDescription
+      Value: Bowl with some food
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T065152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f65765cd-4915-4de0-9512-104aaf3d239b"
+      Hint: CarouselTitle
+      Value: Food
